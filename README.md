@@ -14,4 +14,4 @@ cd save/202506/
 python -i wormearth.py
 ```
 
-All rights reserved. Any questions, please contact kimchange( [kimchange@tju.edu.cn](mailto: kimchange@tju.edu.cn) )
+All rights reserved. Any questions, please contact kimchange( [kimchange@tju.edu.cn] )
